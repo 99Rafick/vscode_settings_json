@@ -1,0 +1,73 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.tree.indent": 20,
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+  
+    "workbench.colorCustomizations": {
+      "[One Dark Pro Darker]": {
+        "editor.selectionBackground": "#3d59a191",
+        "editor.selectionHighlightBackground": "#3d59a191"
+      }
+    },
+    "material-ui-snippets.showNotesOnStartup": false,
+  
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.linkedEditing": true,
+    "editor.renderWhitespace": "trailing",
+    "editor.occurrencesHighlight": "off",
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.defaultLanguage": "markdown",
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.accessibilitySupport": "off",
+    "editor.lineHeight": 24,
+  
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+  
+    "git.enableSmartCommit": true,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+  
+    "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\Terminal.exe",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  
+    "vscode-edge-devtools.webhint": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+  
+    "mssql.objectExplorer.groupBySchema": false,
+  
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "[python]": {
+      "editor.formatOnType": true
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionWidget.showHeaders": false,
+    "workbench.editor.languageDetection": false,
+    "files.autoSave": "afterDelay",
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+    // "vscode_custom_css.imports": [
+    //   "file:///C:/vsc.custom/style.css"
+    // ],
+    // "vscode_custom_css.policy": true
+  }
+  
